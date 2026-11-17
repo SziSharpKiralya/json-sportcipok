@@ -1,40 +1,54 @@
 {
-    "cipok": [
-        {
-            "nev": "Nike Air Max 270",
-            "megjelenes": "2023-03-15",
-            "ertek": 45990,
-            "kaphato": false
-        },
-        {
-            "nev": "Reebok Classic Leather",
-            "megjelenes": "2020-04-20",
-            "ertek": 29990,
-            "kaphato": true
-        },
-        {
-            "nev": "New Balance 574",
-            "megjelenes": "2023-03-15",
-            "ertek": 38990,
-            "kaphato": true
-        },
-        {
-            "nev": "Vans Old Skool",
-            "megjelenes": "2021-05-05",
-            "ertek": 26990,
-            "kaphato": false
-        },
-        {
-            "nev": "Asics Gel-Kayano 30",
-            "megjelenes": "2023-07-01",
-            "ertek": 49990,
-            "kaphato": true
-        },
-        {
-            "nev": "Under Armour HOVR Phantom",
-            "megjelenes": "2022-11-22",
-            "ertek": 41990,
-            "kaphato": true
-        }
-    ]
+  "cipok": [
+    {
+      "nev": "Nike Air Max 270",
+      "megjelenes": "2023-03-15",
+      "ertek": 45990,
+      "kaphato": false,
+      "id": "w8eZQdYS4pU"
+    },
+    {
+      "nev": "Reebok Classic Leather",
+      "megjelenes": "2020-04-20",
+      "ertek": 29990,
+      "kaphato": true,
+      "id": "wjox-Ii9QJY"
+    },
+    {
+      "nev": "New Balance 574",
+      "megjelenes": "2023-03-15",
+      "ertek": 38990,
+      "kaphato": true,
+      "id": "-hUL6FAyYTg"
+    },
+    {
+      "nev": "Vans Old Skool",
+      "megjelenes": "2021-05-05",
+      "ertek": 26990,
+      "kaphato": false,
+      "id": "naeESFf5sK8"
+    },
+    {
+      "nev": "Asics Gel-Kayano 30",
+      "megjelenes": "2023-07-01",
+      "ertek": 49990,
+      "kaphato": true,
+      "id": "8aW0fQcts5o"
+    },
+    {
+      "nev": "Under Armour HOVR Phantom",
+      "megjelenes": "2022-11-22",
+      "ertek": 41990,
+      "kaphato": true,
+      "id": "0oIETwhYTHo"
+    },
+    {
+      "nev": "Teszt Elek Csuka",
+      "megjelenes": "2022-05-01",
+      "ertek": 44999,
+      "kaphato": true,
+      "id": "DpgYs_NWnjY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
